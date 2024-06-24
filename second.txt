@@ -4,4 +4,4 @@
 .git　commit
 .git commit2
 .git commit3
-.git status
+.git statusq
