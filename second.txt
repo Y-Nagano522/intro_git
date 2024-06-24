@@ -1,0 +1,7 @@
+.githab練習用
+.基本的なワークフローを学びます
+.git　add
+.git　commit
+.git commit2
+.git commit3
+.git status
