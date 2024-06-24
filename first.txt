@@ -4,3 +4,4 @@
 4.git　commit
 5.git commit2
 6.git commit3
+7.git status
